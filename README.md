@@ -1,2 +1,2 @@
 # Test
-Testing directory
+Now this file is a new readme file
